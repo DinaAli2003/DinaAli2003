@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/ac/0f/08/ac0f08689eba111df0cb820c55440c57.jpg)
+![MasterHead](https://i.pinimg.com/736x/21/2e/30/212e30a9236bf02597f319a64949d7b6.jpg)
 
 <h1 align="center">Hi 👋, I'm Dina Ali</h1>
 <h3 align="center">A passionate Data Analyst from Egypt</h3>
