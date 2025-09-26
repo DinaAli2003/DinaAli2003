@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dinaelharedy00@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dina-ali-0573a724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 📄 Know about my experiences [https://portfolio-viz-engine.lovable.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
