@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dinaelharedy00@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-viz-engine.lovable.app/]
+- 📄 Know about my experiences [https://portfolio-dina.lovable.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
