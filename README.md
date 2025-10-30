@@ -104,7 +104,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-<hr style="width: 50%; border: 1px solid #555; margin: 10px auto;">
+<hr style="height: 1px; border: none; background-color: #555; width: 50%; margin: 10px auto;">
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DinaAli2003&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
