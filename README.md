@@ -1,13 +1,14 @@
-# 💫 About Me:
-👋 Hi there! I'm Dina Ali
+<h1>👋 Hi there! I'm Dina Ali</h1>
+<h2> Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast</h2>
 
-Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast
+# 💫 About Me:
 
 I’m a passionate and detail-oriented Junior Data Analyst with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
 Skilled in data cleaning, modeling, and visualization, I’m dedicated to transforming raw data into accurate, actionable insights that drive data-informed decisions.
-
 I love combining analytical thinking with creative problem-solving to uncover patterns and trends that help businesses make smarter, strategic choices.
 I’m always eager to learn new tools, explore new datasets, and grow into a Data Scientist who uses data to create real-world impact.
+
+
 🔭 Currently working on: Dashboards & ML-driven insights<br>🌱 Currently learning: Data analysis & ML & Data Science<br>💼 Open to: Data Analysis, Science roles & collaborations<br>📫 Reach me at: dinaelharedy00@gmail.com
 
 
