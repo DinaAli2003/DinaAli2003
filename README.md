@@ -112,4 +112,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DinaAli2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Snake animation](https://github.com/DinaAli2003/DinaAli2003/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/DinaAli2003/DinaAli2003/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/DinaAli2003/DinaAli2003/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
