@@ -1,5 +1,5 @@
-<h1>👋 Hi there! I'm Dina Ali</h1>
-<h2> Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast</h2>
+<h1><center>👋 Hi there! I'm Dina Ali</center></h1>
+<h2><center>Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast </center> Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast</h2>
 
 # 💫 About Me:
 
