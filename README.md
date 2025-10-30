@@ -110,7 +110,6 @@
 </div>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/DinaAli2003/DinaAli2003/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/DinaAli2003/DinaAli2003/output/snake-dark.svg)
 
 
