@@ -109,8 +109,10 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DinaAli2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center">
+![](https://github-contributor-stats.vercel.app/api?username=DinaAli2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 ---
 
 
