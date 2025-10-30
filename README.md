@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+<img align="right" height="180" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://iconscout.com/lottie-animation/female-web-developer-animation_6031664)" alt="data gif"/>
 
 ###
 
