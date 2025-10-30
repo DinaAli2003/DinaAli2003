@@ -96,7 +96,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="left">
+<div align="center">
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DinaAli2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -109,4 +109,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DinaAli2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Snake Animation](https://github.com/DinaAli2003/DinaAli/DinaAli2003/blob/output/snake-dark.svg)
+![Snake animation](https://github.com/DinaAli2003/DinaAli2003/blob/output/github-contribution-grid-snake-dark.svg)
