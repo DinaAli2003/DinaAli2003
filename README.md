@@ -19,14 +19,19 @@
 </div>
 
 ###
-<lottie-player 
-    src="https://lottie.host/your-animation-url.json" 
-    background="transparent" 
-    speed="1" 
-    style="width: 180px; height: 180px;" 
-    loop 
-    autoplay>
-</lottie-player>
+<div align="right">
+  <a href="https://iconscout.com/lottie-animations/female-web-developer" target="_blank">
+    <video height="180" autoplay loop muted playsinline>
+      <source src="https://lottie.host/female-web-developer.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </a>
+  <p style="font-size: 12px; text-align: right;">
+    <a href="https://iconscout.com/lottie-animations/female-web-developer" target="_blank">Female Web Developer</a> 
+    by <a href="https://iconscout.com/contributors/azmat46" target="_blank">azmat</a> 
+    on <a href="https://iconscout.com" target="_blank">IconScout</a>
+  </p>
+</div>
 
 
 ###
