@@ -1,34 +1,119 @@
-<h1><center>👋 Hi there! I'm Dina Ali</center></h1>
-<h2><center>Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast </center> Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast</h2>
+<h1 align="center">Hello, I'm Dina Ali</h1>
+<h3 align="center">Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast </h3>
 
-# 💫 About Me:
+<div align="center">
 
-I’m a passionate and detail-oriented Junior Data Analyst with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
-Skilled in data cleaning, modeling, and visualization, I’m dedicated to transforming raw data into accurate, actionable insights that drive data-informed decisions.
-I love combining analytical thinking with creative problem-solving to uncover patterns and trends that help businesses make smarter, strategic choices.
-I’m always eager to learn new tools, explore new datasets, and grow into a Data Scientist who uses data to create real-world impact.
+[![Profile Views](https://komarev.com/ghpvc/?username=DinaAli2003&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DinaAli2003/DinaAli)
+[![GitHub Followers](https://img.shields.io/github/followers/DinaAli2003?style=social)](https://github.com/DinaAli2003/DinaAli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dina-ali-0573a724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:dinaelharedy00@gmail.com)
+
+</div>
+
+---
+
+<div align="left">
+
+## 🚀 About Me  
+
+</div>
+
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+
+###
+
+<div align="left">
+  
+  I’m a Junior Data Analyst passionate about **Data Analysis & Machine Learning**, with the ambition to grow into a **Data Scientist**.  
+  With a strong enthusiasm for **Mathematics, Statistics, and Data field**, I enjoy unlocking the power of data to deliver meaningful insights.  
+  
+  
+  - 🔭 **Currently working on:** Dashboards & ML-driven insights  
+  - 🌱 **Currently learning:** Data analysis & Machine learning 
+  - 💼 **Open to:** Data Analysis, Science roles & collaborations  
+  - 📫 **Reach me at:** dinaelharedy00@gmail.com
+
+</div>
+
+---
 
 
-🔭 Currently working on: Dashboards & ML-driven insights<br>🌱 Currently learning: Data analysis & ML & Data Science<br>💼 Open to: Data Analysis, Science roles & collaborations<br>📫 Reach me at: dinaelharedy00@gmail.com
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+### Data Science & ML
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
+
+### Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+---
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/share/1chmwwf5uz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dina-ali-0573a724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinaelharedy00@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DinaAli2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DinaAli2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DinaAli2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
+
+----
+<div align="center">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DinaAli2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DinaAli2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DinaAli2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake Animation](https://github.com/DinaAli2003/DinaAli/blob/output/snake-dark.svg)
