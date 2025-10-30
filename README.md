@@ -19,8 +19,15 @@
 </div>
 
 ###
+<lottie-player 
+    src="https://lottie.host/your-animation-url.json" 
+    background="transparent" 
+    speed="1" 
+    style="width: 180px; height: 180px;" 
+    loop 
+    autoplay>
+</lottie-player>
 
-<img align="right" height="180" src="<a href="https://iconscout.com/lottie-animations/female-web-developer" class="text-underline font-size-sm" target="_blank">Female Web Developer</a> alt="data gif"/>
 
 ###
 
