@@ -2,9 +2,10 @@
 <h3 align="center">Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast </h3>
 
 <div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=DinaAli2003&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DinaAli2003/DinaAli)
 [![GitHub Followers](https://img.shields.io/github/followers/DinaAli2003?style=social)](https://github.com/DinaAli2003/DinaAli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dina-ali-0573a724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://bit.ly/4hDJguP)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:dinaelharedy00@gmail.com)
 
 
