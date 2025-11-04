@@ -64,7 +64,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://plotly.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="plotly logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo" />
+
 
   
 <!-- 
