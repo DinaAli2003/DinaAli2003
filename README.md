@@ -17,7 +17,7 @@
 ## 🚀 About Me  
 
 </div>
-###
+
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnA2NWU3Y21saW1nMGFxMzN0YXBwaWxiZjdvaGkycmVwNTUydXh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/giphy.gif" alt="data gif"/>
 
 ###
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-### Data Science & ML
+### Libraries & Frameworks 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
