@@ -70,7 +70,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo" />
   <img width="12" />
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-beautiful-soup-is-a-python-library-for-pulling-data-out-of-html-and-xml-files-logo-shadow-tal-revivo.svg" height="40" alt="beautiful soup logo" />
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/beautiful-soup.png" height="40" alt="beautifulsoup logo" />
+
 
 <!-- <img width="12" /> -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" /> -->
