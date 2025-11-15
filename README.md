@@ -72,7 +72,7 @@
   <img width="12" />
   <img src="https://beautifulsoup.pydata.org/_images/logo-mark-lightbg.svg"  height="40" alt="BeautifulSoup logo" />
   
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Beautiful_Soup_logo_small.svg" height="40" alt="Beautiful-Soup logo" /> 
+  <img src="https://raw.githubusercontent.com/Thavarshan/tech-icons/main/icons/beautifulsoup.png" height="40" alt="BeautifulSoup logo" />
 
 
 <!-- <img width="12" /> -->
