@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo"   />
+  <img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" height="40" alt="R logo"   />
 </div>
 
 ### Libraries & Frameworks 
