@@ -72,7 +72,6 @@
   <img width="12" />
   <img src="https://beautifulsoup.pydata.org/_images/logo-mark-lightbg.svg"  height="40" alt="BeautifulSoup logo" />
   
-<img src="https://img.icons8.com/color/512/beautiful-soup-4-logo.png" height="40" alt="BeautifulSoup logo" />
 
 
 <!-- <img width="12" /> -->
