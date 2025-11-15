@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" height="40" alt="R logo"   />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" height="40" alt="R logo"   />
 </div>
 
 ### Libraries & Frameworks 
@@ -105,7 +105,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" alt="Databricks logo" /> 
+  <img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" height="40" alt="Databricks logo" /> 
 
 </div>
 
