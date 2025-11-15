@@ -70,7 +70,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo" />
   <img width="12" />
-  <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png"  height="40" alt="BeautifulSoup logo" />
+  <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png"  height="60" alt="BeautifulSoup logo" />
   
 
 
