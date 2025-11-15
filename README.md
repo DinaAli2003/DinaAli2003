@@ -103,6 +103,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/databricks.png" height="40" alt="Databricks logo" /> 
 
 </div>
 
