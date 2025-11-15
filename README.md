@@ -103,7 +103,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+  <img src="https://icon2.cleanpng.com/20180601/qrx/kisspng-amazon-web-services-amazon-com-cloud-computing-mic-server-5b10fadbaf6b18.2843485115278394517185.jpg" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/databricks.png" height="40" alt="Databricks logo" /> 
 
