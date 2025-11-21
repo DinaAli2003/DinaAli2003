@@ -25,7 +25,7 @@
 <div align="left">
   
   I’m a Junior Data Analyst passionate about **Data Analysis & Machine Learning**, with the ambition to grow into a **Data Scientist**.  
-  With a strong enthusiasm for **Mathematics, Statistics, and Data field**, I enjoy unlocking the power of data to deliver meaningful insights.  
+  With a strong enthusiasm for **Mathematics, Statistics, and the Data field**, I enjoy unlocking the power of data to deliver meaningful insights.  
   
   
   - 🔭 **Currently working on:** Dashboards & ML-driven insights  
