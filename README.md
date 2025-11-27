@@ -101,7 +101,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642773221418/7A9XnkEAEb.png" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://komodor.com/wp-content/uploads/2025/03/Kubernetes_logo_without_workmark.svg.png" height="40" alt="Kubernetes logo"  />
   <img width="12" />
