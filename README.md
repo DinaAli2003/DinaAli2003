@@ -103,12 +103,12 @@
   <img width="12" />
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642773221418/7A9XnkEAEb.png" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://komodor.com/wp-content/uploads/2025/03/Kubernetes_logo_without_workmark.svg.png" height="40" alt="Kubernetes logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google cloud logo"/>
-  <img width="12" />
+  <!-- <img src="https://komodor.com/wp-content/uploads/2025/03/Kubernetes_logo_without_workmark.svg.png" height="40" alt="Kubernetes logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="Azure logo" /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google cloud logo"/> -->
+  <!-- <img width="12" /> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" height="40" alt="Databricks logo" /> 
