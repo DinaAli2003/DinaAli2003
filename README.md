@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" height="50" alt="BeautifulSoup logo" />
   <img width="12" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" height="50" alt="Streamlit logo" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="50" alt="Streamlit logo" />
   <img width="12" />
 
 
