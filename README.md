@@ -78,10 +78,8 @@
   <img width="12" />
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="50" alt="Streamlit logo" />
   <img width="12" />
-
-
-<!-- <img width="12" /> -->
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" /> -->
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" /> 
+  
 <!-- <img width="12" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /> -->
 <!-- <img width="12" /> -->
