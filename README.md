@@ -23,9 +23,11 @@
 ###
 
 <div align="left">
- I’m a **Junior Data Scientist** with a strong foundation in **Data Analysis, Machine Learning, and Statistics**, passionate about transforming raw data into **actionable insights**.  
+ 
+I’m a **Junior Data Scientist** with a strong foundation in **Data Analysis**, **Machine Learning**, and **Statistics**, passionate about transforming raw data into **actionable insights**.  
 
-I enjoy leveraging **Mathematics, Statistical Modeling, and Machine Learning techniques** to solve real-world problems and support **data-driven decision-making**, with the ambition to grow as a **skilled Data Scientist** in impactful projects.
+I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Learning techniques** to solve **real-world problems** and support **data-driven decision-making**, with the ambition to grow as a **skilled Data Scientist** in **impactful projects**.
+
 
 
   
