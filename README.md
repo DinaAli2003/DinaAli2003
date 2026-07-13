@@ -113,7 +113,7 @@ I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Lear
   <!-- <img width="12" /> -->
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google cloud logo"/> -->
   <img width="12" />
-  <img src="https://toppng.com/uploads/preview/amazon-web-services-aws-logo-11760037608kihongewng.webp" height="40" alt="AWS logo" />
+  <img src="https://images.seeklogo.com/logo-png/31/1/amazon-web-services-aws-logo-png_seeklogo-319188.png" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" height="40" alt="Databricks logo" /> 
 
