@@ -63,7 +63,7 @@ I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Lear
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" height="40" alt="R logo"   />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png" height="40" alt="R logo"   />
 </div>
 
 ### Libraries & Frameworks 
@@ -113,7 +113,7 @@ I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Lear
   <!-- <img width="12" /> -->
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google cloud logo"/> -->
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS logo" />
+  <img src="https://toppng.com/uploads/preview/amazon-web-services-aws-logo-11760037608kihongewng.webp" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" height="40" alt="Databricks logo" /> 
 
