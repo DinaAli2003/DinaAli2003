@@ -33,7 +33,7 @@ I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Lear
   
   
   - 🔭 **Currently working on:** Dashboards & ML-driven insights  
-  - 🌱 **Currently learning:** Data analysis & Machine learning 
+  - 🌱 **Currently learning:** Data analysis & Machine learning & Deep Learning & Computer Vision & NLP
   - 💼 **Open to:** Data Analysis, Science roles & collaborations  
   - 📫 **Reach me at:** dinaelharedy00@gmail.com
 
