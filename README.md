@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dina Ali</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | Python | Data Analysis | AI Enthusiast </h3>
+<h3 align="center">AI Engineer | Data Scientist | Python | Data Analysis | AI Enthusiast </h3>
 
 <div align="center">
 
