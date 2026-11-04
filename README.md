@@ -89,6 +89,11 @@ I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Lear
  <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /> 
 
+ <img width="12" /> 
+ <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" height="40" alt="pytorch logo" />
+ 
+  <img width="12" /> 
+ <img src="https://miro.medium.com/v2/resize:fit:1200/1*_zS2qyJ-rDFe1w3P37w2ag.png" height="40" alt="pytorch logo" />
 </div>
 
 ### Tools & Technologies
