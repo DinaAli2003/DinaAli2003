@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnA2NWU3Y21saW1nMGFxMzN0YXBwaWxiZjdvaGkycmVwNTUydXh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/giphy.gif" alt="data gif"/>
+<img align="right" height="180" src="https://assets-v2.lottiefiles.com/a/44f7d9f2-116e-11ee-b61d-57e3ed93a4e4/ba5MDEgSmX.gif" alt="data gif"/>
 
 ###
 
