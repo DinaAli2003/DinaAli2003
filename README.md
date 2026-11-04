@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="right" height="180" src="https://cdn-icons-gif.flaticon.com/11184/11184145.gif" alt="data gif"/>
+<img align="right" height="180" src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif" alt="data gif"/>
 
 ###
 
