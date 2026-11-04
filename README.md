@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dina Ali</h1>
-<h3 align="center">AI Engineer | Data Scientist | Data Analysis | AI Enthusiast </h3>
+<h3 align="center">AI Engineer | Data Scientist |Data Analytics | AI Enthusiast </h3>
 
 <div align="center">
 
@@ -24,16 +24,18 @@
 
 <div align="left">
  
-I’m a **Junior Data Scientist** with a strong foundation in **Data Analysis**, **Machine Learning**, and **Statistics**, passionate about transforming raw data into **actionable insights**.  
+I’m an **Aspiring AI Engineer and Data Scientist** with a strong foundation in **Data Analysis, Machine Learning, Deep Learning, and Statistics**, passionate about building intelligent solutions and transforming data into actionable insights.
 
-I enjoy leveraging **Mathematics**, **Statistical Modeling**, and **Machine Learning techniques** to solve **real-world problems** and support **data-driven decision-making**, with the ambition to grow as a **skilled Data Scientist** in **impactful projects**.
+I’m interested in **Generative AI, Large Language Models (LLMs), Agentic AI, NLP, and Computer Vision**, with a focus on developing practical AI applications, solving real-world problems, and building reliable AI systems.
+
+I enjoy combining **programming, mathematics, and analytical thinking** to develop data-driven and AI-powered solutions, and continuously expanding my expertise through research, hands-on projects, and practical experience.
 
 
 
   
   
 - 🔭 **Currently working on:**  AI Solutions & Data Science Projects
-- 🌱 **Currently learning:** Agentic AI, LLMs, RAG,Generative AI ,Machine Learning, Deep Learning, NLP & Computer Vision
+- 🌱 **Currently learning:** Agentic AI, LLMs, RAG, Generative AI ,Machine Learning, Deep Learning, NLP & Computer Vision
 - 💼 **Open to:** AI Engineer, Data Scientist & Machine Learning opportunities and collaborations
 - 📫 **Reach me at:** dinaelharedy00@gmail.com
 
