@@ -65,7 +65,7 @@ I enjoy combining **programming, mathematics, and analytical thinking** to devel
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png" height="40" alt="R logo"   />
+  <img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="40" alt="R logo"   />
 </div>
 
 ### Libraries & Frameworks 
